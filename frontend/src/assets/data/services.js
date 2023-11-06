@@ -6,19 +6,19 @@ export const services = [
         textColor: "#FEB600",
     },
     {
-        name: "Cancer Care",
+        name: "Labor & Delivery",
         desc: "World-class care for everyone. One health system offers unmatched, expect health care. from the lab to the clinc.",
         bgColor: "rgba(151, 313, 255, .2)",
         textColor: "#9771FF",
     },
     {
-        name: "Cancer Care",
+        name: "Heart & Vascular",
         desc: "World-class care for everyone. One health system offers unmatched, expect health care. from the lab to the clinc.",
         bgColor: "rgba(1, 181, 197, .2)",
         textColor: "#01B5C5",
     },
     {
-        name: "Cancer Care",
+        name: "Mental Health",
         desc: "World-class care for everyone. One health system offers unmatched, expect health care. from the lab to the clinc.",
         bgColor: "rgba(1, 181, 197, .2)",
         textColor: "#01B5C5",
@@ -29,4 +29,16 @@ export const services = [
         bgColor: "rgba(254, 182, 13, .2",
         textColor: "#FEB600",
     },
+    {
+        name: "Neurology",
+        desc: "World-class care for everyone. Our health System offers unmatched, expert health care. From the lab to the clinic.",
+        bgColor: "rgba(254, 182, 13, .2)",
+        textColor: "#FEB60D",
+      },
+      {
+        name: "Burn Treatment",
+        desc: "World-class care for everyone. Our health System offers unmatched, expert health care. From the lab to the clinic.",
+        bgColor: "rgba(151, 113, 255, .2)",
+        textColor: "#9771FF",
+      },
 ]
