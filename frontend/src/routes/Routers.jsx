@@ -6,7 +6,6 @@ import Services from './../pages/Services';
 import DoctorDetials from './../pages/Doctors/DoctorDetials';
 import Doctors from '../pages/Doctors/Doctors';
 
-Doctors
 import { Routes, Route } from 'react-router-dom';
 
 const Routers = () => {

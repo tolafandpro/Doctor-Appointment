@@ -26,7 +26,7 @@ export const services = [
     {
         name: "Cancer Care",
         desc: "World-class care for everyone. One health system offers unmatched, expect health care. from the lab to the clinc.",
-        bgColor: "rgba(254, 182, 13, .2",
+        bgColor: "rgba(151, 113, 255, .2)",
         textColor: "#FEB600",
     },
     {
